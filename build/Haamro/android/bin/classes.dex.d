@@ -1,0 +1,20 @@
+C:\workspace\haamro-2.2-ws\build\Haamro\android\bin\classes.dex : \
+C:\workspace\haamro-2.2-ws\build\Haamro\android\bin\classes\com\haamro\Haamro\BuildConfig.class \
+C:\workspace\haamro-2.2-ws\build\Haamro\android\bin\classes\com\haamro\Haamro\Haamro.class \
+C:\workspace\haamro-2.2-ws\build\Haamro\android\bin\classes\com\haamro\Haamro\R$attr.class \
+C:\workspace\haamro-2.2-ws\build\Haamro\android\bin\classes\com\haamro\Haamro\R$bool.class \
+C:\workspace\haamro-2.2-ws\build\Haamro\android\bin\classes\com\haamro\Haamro\R$drawable.class \
+C:\workspace\haamro-2.2-ws\build\Haamro\android\bin\classes\com\haamro\Haamro\R$layout.class \
+C:\workspace\haamro-2.2-ws\build\Haamro\android\bin\classes\com\haamro\Haamro\R$string.class \
+C:\workspace\haamro-2.2-ws\build\Haamro\android\bin\classes\com\haamro\Haamro\R$xml.class \
+C:\workspace\haamro-2.2-ws\build\Haamro\android\bin\classes\com\haamro\Haamro\R.class \
+C:\workspace\haamro-2.2-ws\build\Haamro\android\bin\classes\com\phonegap\plugins\childBrowser\ChildBrowser$1$1.class \
+C:\workspace\haamro-2.2-ws\build\Haamro\android\bin\classes\com\phonegap\plugins\childBrowser\ChildBrowser$1$2.class \
+C:\workspace\haamro-2.2-ws\build\Haamro\android\bin\classes\com\phonegap\plugins\childBrowser\ChildBrowser$1$3.class \
+C:\workspace\haamro-2.2-ws\build\Haamro\android\bin\classes\com\phonegap\plugins\childBrowser\ChildBrowser$1$4.class \
+C:\workspace\haamro-2.2-ws\build\Haamro\android\bin\classes\com\phonegap\plugins\childBrowser\ChildBrowser$1$5.class \
+C:\workspace\haamro-2.2-ws\build\Haamro\android\bin\classes\com\phonegap\plugins\childBrowser\ChildBrowser$1$6.class \
+C:\workspace\haamro-2.2-ws\build\Haamro\android\bin\classes\com\phonegap\plugins\childBrowser\ChildBrowser$1.class \
+C:\workspace\haamro-2.2-ws\build\Haamro\android\bin\classes\com\phonegap\plugins\childBrowser\ChildBrowser$ChildBrowserClient.class \
+C:\workspace\haamro-2.2-ws\build\Haamro\android\bin\classes\com\phonegap\plugins\childBrowser\ChildBrowser.class \
+C:\workspace\haamro-2.2-ws\build\Haamro\android\bin\dexedLibs\cordova-2.4.0-b7e76a61f8d2dc1cfff801acf615dfd8.jar \
