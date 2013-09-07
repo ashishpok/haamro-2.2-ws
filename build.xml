@@ -7,14 +7,20 @@
     -->
     <import file="${basedir}/.sencha/app/build-impl.xml"/>
 
-    <import file="C:/workspace/sencha-touch/sencha-cordova-builder/build-cordova.xml" />
+    <import file="/Users/ashish/Workspace/sencha-cordova-builder/build-cordova.xml" />
     
+    
+    <target name="-after-build" depends="-build-ios"/>
+    
+    <!-- 
     <target name="-after-build" depends="-build-android"/>
-    
+    -->
+    <!--
     <target name="-after-build-android">
         <exec executable="C:/workspace/haamro-2.2-ws/build/Haamro/android/cordova/build.bat"/>
     </target>
-   	 <!-- -->
+    -->
+   	 
     
     <!--
     The following targets can be provided to inject logic before and/or after key steps
