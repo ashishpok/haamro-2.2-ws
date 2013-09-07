@@ -16,7 +16,7 @@ Ext.define('Haamro.store.Stocks', {
         
 		proxy: {
 			
-			type: 'jsonp',
+			type: Configurations.getProxyType(),
 			
             url: Configurations.getStocksUrl(),
 
